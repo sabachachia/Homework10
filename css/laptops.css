@@ -1,0 +1,39 @@
+@media(max-width:1300px){
+    /* header */
+    header{
+        padding-inline:64px ;
+    }
+    .section1{
+        height: 560px;
+    }
+    /* .article_div{
+        overflow-x: scroll;
+    }
+    article{
+        flex: 1 0 298px;
+    } */
+     footer{
+        padding-inline: 302px;
+     }
+}
+@media(max-width:880px){
+    /* header */
+    header{
+        padding-inline:24px ;
+    }
+    nav{
+        display: none;
+    }
+    .header_but{
+        display: none;
+    }
+    .burger_div{
+        display: flex;
+    }
+    .section1{
+        height: 420px;
+    }
+    footer{
+        padding-inline: 209px;
+     }
+}

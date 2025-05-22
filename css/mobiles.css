@@ -1,0 +1,20 @@
+@media(max-width:480px){
+    /* header */
+    header{
+        padding-inline:8px ;
+    }
+    .section1{
+        height: 320px;
+    }
+    .sec1_h{
+        font-size: 32px;
+    }
+    .sec2_h{
+        font-size:24px ;
+    }
+    footer{
+        padding-inline:154px ;
+        flex-direction: column;
+        height: 612px;
+    }
+}
